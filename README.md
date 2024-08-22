@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DanV-78, engineer from the UK 
-- 👀 I’m interested in Business Innovation, Dapps, Process Automation and everything that can help engineers be engineers and not typewriting machine
-- 🌱 I’m currently learning many different things 
-- 💞️ I’m NOT looking to collaborate on anything at the moment because my Coding skills are very low
-- 📫 How to reach me (will change when I feel that I can be of any help)...
+- 👀 I’ve founded in 2024 my company Engineering and Data Ltd to support SMEs in the fields of Data Analytics, AI, ML 
+- 🌱 Python, SQL, Excel, G4A 
+- 💞️ Freedom to work on what I like
+- 📫 How to reach me ... check my website www.engndata.com
 
 <!---
 DanV-78/DanV-78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
