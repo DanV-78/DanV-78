@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanV-78, engineer from the UK 
 - 👀 I’ve founded in 2024 my company Engineering and Data Ltd to support SMEs in the fields of Data Analytics, AI, ML 
-- 🌱 Python, SQL, Excel, G4A, AI/ML
+- 🌱 Python, Flutter, Dart, SQL, Excel, G4A, AI/ML
 - 💞️ Freedom to work on what I like
 - 📫 How to reach me ... check my website www.engndata.com or write info@engndata.com
 
